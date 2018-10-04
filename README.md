@@ -3,6 +3,8 @@
 [![codecov](https://codecov.io/gh/OCA/mis-builder/branch/10.0/graph/badge.svg)](https://codecov.io/gh/OCA/mis-builder)
 [![docs](https://media.readthedocs.org/static/projects/badges/passing.svg)](http://oca-mis-builder.readthedocs.io/en/10.0/)
 
+THIS IS A TEST
+
 # MIS Builder
 
 Management Information System reports for Odoo: easily build super fast,
